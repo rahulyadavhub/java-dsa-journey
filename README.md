@@ -27,6 +27,8 @@ Java-DSA-journey/
 |   |-- RotateArray.java
 |   |-- SecondLargestElement.java
 |   `-- SumOfArrayElements.java
+|-- binary-search/
+|   `-- BinarySearch.java
 |-- linked-list/
 |   |-- DetectCycle.java
 |   `-- MergeTwoSortedLists.java
@@ -67,8 +69,9 @@ Java-DSA-journey/
 | Recursion | 5 |
 | Stack | 5 |
 | Queue | 5 |
+| Binary Search | 1 |
 
-**Total solved:** 37
+**Total solved:** 38
 
 ## Conventions
 
@@ -80,11 +83,11 @@ Java-DSA-journey/
 
 ## Next Topics
 
-1. Binary Search
-2. Sorting
-3. Trees
-4. Graphs
-5. Dynamic Programming
+1. Sorting
+2. Trees
+3. Graphs
+4. Dynamic Programming
+5. Greedy
 
 ## Suggested Problem Template
 
