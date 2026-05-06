@@ -23,4 +23,3 @@ public class BestTimeToBuyAndSellStock {
         System.out.println("Max Profit = " + maxProfit);
     }
 }
-
