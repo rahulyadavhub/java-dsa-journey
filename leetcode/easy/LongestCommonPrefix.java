@@ -5,10 +5,10 @@
  *
  * Approach: Binary Search on prefix length
  *
- * Time: O(S * log n) where S = sum of all characters
+ * Time: O(S * log m) where S = sum of all characters, m = length of shortest string
  * Space: O(1)
  */
-class Solution {
+public class LongestCommonPrefix {
     public String longestCommonPrefix(String[] strs) {
         if (strs == null || strs.length == 0) return "";
         int minLen = Integer.MAX_VALUE;
