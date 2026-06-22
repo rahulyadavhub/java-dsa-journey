@@ -104,4 +104,4 @@ java-dsa-journey-/
 
 Still adding to this as I go. Some folders are deeper than others just because
 that's the order I've been learning in. If a file's comments sound like a confused
-student figured it out 5 minutes ago — yeah, that's the idea
+student figured it out 5 minutes ago — yeah, that's the idea.
